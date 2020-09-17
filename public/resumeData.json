@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Gedeon Eyasu",
+    "occupation": "Django + React developer, Entrepreneur && CEO @YAP",
+    "description": "Full Stack Developer with expertise in Django, Node, React & ReactNative. Student by day  && Freelancer by Night",
+    "image": "gedy_logo.jpg",
+    "bio": "My name is Gedeon, I'm a Full Stack Developer. Currently I'm studying Computer Engineering while also Freelancing. I enjoy solving problems and bringing ideas to life",
+    "contactmessage": "Get in touch with me to receive further details, Hire me for a project or anything else.",
+    "email": "gedyeyasu@hotmail.com",
+    "phone": "+251 963 29 5970",
+    "address": {
+      "street": "Dembel, Bole",
+      "city": "Addis Ababa",
+      "state": "Ethiopia",
+      "zip": ""
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gedeon-eyasu-6169ab91/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gedyeyasu/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gedyeyasu",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a passionate Entrepreneur and constantly learning to improve my skills, here are few ... ",
+    "education": [
+      {
+        "school": "Bahir Dar University",
+        "degree": "Bachelor of Science in Computer Engineering",
+        "graduated": "October 2021",
+        "description": "Expecting to graduate"
+      }
+    ],
+    "work": [
+      {
+        "company": "YAP Inc",
+        "title": "Founder & CEO",
+        "years": "April 2020 - Present",
+        "description": "Leader, Designer and Developer."
+      },
+      {
+        "company": "Yene Pay Financial Technologies",
+        "title": "Intern",
+        "years": "Oct 2019 - Jan 2020",
+        "description": "Building Payment gateway SDK, For OpenCart Ecommerce CMS."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Django & REST API",
+        "level": "96%"
+      },
+      {
+        "name": "React & React Native",
+        "level": "95%"
+      },
+      {
+        "name": "Node & Express",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5, CSS & JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Git & CI/CD",
+        "level": "80%"
+      },
+      {
+        "name": "FireBase, MongoDB & PostgresSQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with full ecommerce Functionality",
+        "category": "built using ReactJS, NodeJS and Firebase",
+        "image": "amazon_clone.jpg",
+        "url": "https://clone-77bb4.web.app/"
+      },
+      {
+        "title": "Project Budget Management App",
+        "category": "Test driven development built with (Django, UnitTest, Selenium, Materialize)",
+        "image": "budget-project.png",
+        "url": "https://github.com/gedyeyasu/budget-project"
+      },
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-project.png",
+        "url": "https://squad-2864f.web.app/"
+      },
+
+      {
+        "title": "StoryBooks",
+        "category": "A Story Posting App built with (Node, ExpressJS, Passport, Handlebars, MongoDB)",
+        "image": "Stories-project.png",
+        "url": "#"
+      },
+      {
+        "title": "Fiancé Dating App",
+        "category": "A tinder like dating App built with (React, Material-Ui, Firebase)",
+        "image": "fiance-project.png",
+        "url": "https://fiance-2a39b.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Enthusiast person with a great work ethic! will definitely hire him again for my future projects. Finished all the assigned task with great quality and met the deadline. ",
+        "user": "Brian Harris"
+      },
+      {
+        "text": "That Gedeon Eyasu must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
